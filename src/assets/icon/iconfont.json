@@ -1,0 +1,114 @@
+{
+  "id": "2920105",
+  "name": "myIcno",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-ali",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3506983",
+      "name": "csdn",
+      "font_class": "csdn1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "515111",
+      "name": "facebook_facebook52",
+      "font_class": "facebookfacebook52",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "829865",
+      "name": "csdn",
+      "font_class": "csdn",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1244194",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "4552970",
+      "name": "邮箱",
+      "font_class": "youxiang1",
+      "unicode": "e908",
+      "unicode_decimal": 59656
+    },
+    {
+      "icon_id": "4936961",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "e87d",
+      "unicode_decimal": 59517
+    },
+    {
+      "icon_id": "4937000",
+      "name": "github-fill",
+      "font_class": "github-fill",
+      "unicode": "e885",
+      "unicode_decimal": 59525
+    },
+    {
+      "icon_id": "5271617",
+      "name": "微信",
+      "font_class": "weixin1",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "5634648",
+      "name": "elementor",
+      "font_class": "elementor",
+      "unicode": "f196",
+      "unicode_decimal": 61846
+    },
+    {
+      "icon_id": "6496026",
+      "name": "Vue",
+      "font_class": "Vue",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "7408748",
+      "name": "邮箱",
+      "font_class": "youxiang2",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "8760187",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "13744032",
+      "name": "vue",
+      "font_class": "vue",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "15378210",
+      "name": "canva",
+      "font_class": "canva",
+      "unicode": "eb59",
+      "unicode_decimal": 60249
+    }
+  ]
+}
